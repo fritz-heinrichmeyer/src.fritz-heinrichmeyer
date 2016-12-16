@@ -1,0 +1,34 @@
+# Hallo
+output
+cache
+__pycache__
+oldsrc
+.cvsignore
+.project
+.pydevproject
+.settings
+.buildpath
+.doit.*
+#wegen FileZilla 
+www.test.out
+CVS
+*.gif
+*.pdf
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.xpi
+*.doc
+.directory
+*.LOG
+*.log
+*.rtf
+*.jar
+*.exe
+*.cache
+*.lnk
+*out.html
+*.gz
+#wegen picasa
+*.ini
