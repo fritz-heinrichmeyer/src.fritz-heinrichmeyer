@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
 			(
 				("/pages/lehre/index.html", "Lehre"),
 				("/pages/sonstiges/index.html", "sonstiges"),
+				("/pages/privates/index.html", "privates"),
 				("/pages/programmierung/index.html", "programmierung"),
 			), 
 			"Pages"
