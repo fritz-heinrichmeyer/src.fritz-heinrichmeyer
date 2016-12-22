@@ -15,7 +15,23 @@ Sonstiges
 =========
 
 
-- Alte Projekte 
-- Murphys Gesetze
-- Privates
-- ProPra
+
+Alte Projekte
+-------------
+`Alte Projekte <http://www.fernuni-hagen.de/lges_alt/heinrichmeyer/es-sun2/>`_. 
+
+Murphys Gesetze
+---------------
+
+`Murphys Gesetze <http://www.chemie.fu-berlin.de/diverse/murphy/murphy.html>`_.
+
+
+Privates
+--------
+
+`Privates </pages/privates/index.html>`_.
+
+ProPra
+------
+
+`ProPra <http://www.fernuni-hagen.de/mathinf/studium/lehre/praktika/programmierpraktikum/>`_.

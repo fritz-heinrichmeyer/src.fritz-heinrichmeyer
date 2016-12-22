@@ -14,13 +14,13 @@ habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
 
 Ich werde zum Anfang Oktober 2016 in den Ruhestand versetzt!
 
-(Früher: siehe unten)
+(FrÃ¼her: siehe unten)
 
 
 Diplomstudiengang
 =================
 
-`diplompraktika <http://www.fernuni-hagen.de/lges/lehrangebot/diplompraktika/>`_. 
+`Organisation der Praktika im Diplomstudiengang <http://www.fernuni-hagen.de/lges/lehrangebot/diplompraktika/>`_
 
 Praktikumsversuche
 ------------------
@@ -28,3 +28,21 @@ Praktikumsversuche
 - Analoge Grundschaltungen (Praktikum I, ES1)
 
 - Praktikum IIa (Kurs 02045, im Lehrangebot bis 2020)
+- Praktikum IIb (Kurs 02046, im Lehrangebot bis 2020)
+- Digitale Signalverarbeitung mit dem Signalprozessor (Praktikum IIb im Lehrangebot bis 2020, eine Woche im Sommer, ES4)
+
+Wahlfachprüfungen Hauptstudium
+------------------------------
+- Digitale Signalverarbeitung (Hauptstudium Diplom, im Lehrangebot bis 2020 unter Kurs Nr. 21411/21412, Prüfungsnummer im Diplomstudiengang ist 2540, Prüfung im Nebenfach Mathematik und Informatik)
+- Signaltheorie (im Sommer 2007 letztmalig im Lehrangebot als Kurs Nr. 02573, Prüfungsnummer im Diplomstudiengang ist 2410, Prüfung im Nebenfach Mathe und Informatik)
+
+Master Elektro- und Informationstechnik
+---------------------------------------
+
+Jeweils Betreuung zweier Vorlesungen, Prüfung, Praktikum und Seminar, Neueinschreibung nicht mehr möglich
+
+- Modul `21410 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_ds/>`_ Digitale Signalverarbeitung
+- Modul 21420 `21420 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_es/>`_ Elektronische Schaltungen †
+- Modul 21780 `21480 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_se/>`_ Softwarearchitektur und Entwicklungswerkzeuge †
+
+† : Letztmalig im Wintersemester 2012/13
