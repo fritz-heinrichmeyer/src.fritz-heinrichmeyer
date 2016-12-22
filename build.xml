@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     16.05.2014 15:33:42                                                        
+
+     Homepage
+     von Fritz auf lges-alt
+                   
+     fritz                                                                
+     ====================================================================== -->
+
+<project name="Example Build Script" basedir="." default="deploy.website">
+	<property file="/CHANGE_THIS_TO_A_PATH_TO_YOUR_PROPERTIES_FILE/build.properties" />
+
+	<property name="username" value="t_heinrichme" />
+	<property name="password" value="WsXmm2181" />
+	<property name="webroot" value="/export/home/wwwmount/lges_alt/heinrichmeyer" />
+	<property name="webserver" value="redwood.fernuni-hagen.de" />
+	<property name="local_path_in_workspace" value="out" />
+	<target name="deploy.website" description="Deploy to webserver">
+		<echo>Deploying to web server...</echo>
+		<scp trust="true" sftp="true" todir="${username}:${password}@${webserver}:${webroot}">
+			<fileset dir="${local_path_in_workspace}">
+				<include name="**/*.html" />
+				<include name="**/*.pdf" />
+				<include name="**/*.xml" />
+				<include name="**/*.asc" />
+				<include name="**/*.vcf" />
+				<modified>
+					<param name="cache.cachefile" value="webserver.cache" />
+				</modified>
+			</fileset>
+
+		</scp>
+	</target>
+</project>
