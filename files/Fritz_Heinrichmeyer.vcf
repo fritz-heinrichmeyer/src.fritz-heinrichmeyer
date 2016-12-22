@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dr.- Ing. Friedrich Johann Heinrichmeyer
+N:Heinrichmeyer;Friedrich;Johann;Dr.- Ing.;
+EMAIL;TYPE=INTERNET;TYPE=HOME:fritz.heinrichmeyer@gmail.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:fritz.heinrichmeyer@fernuni-hagen.de
+TEL;TYPE=WORK:02331 987 1166
+TEL;TYPE=HOME:02372 2497
+TEL;TYPE=CELL:017638618382
+ADR;TYPE=WORK:;;Raum 012;;Universit‰tsstraﬂe 27;;Hagen;;58097;;Deutschland
+ADR;TYPE=HOME:;;Theo-Funccius-Str. 16;Hemer;;58675;Deutschland
+ORG:Fernuniversit‰t in Hagen
+TITLE:Dr.-Ing.
+BDAY:1954-10-18
+URL:http\://www.fernuni-hagen.de/lges_alt/heinrichmeyer/
+
+END:VCARD
