@@ -13,9 +13,9 @@
 
 	<property name="username" value="t_heinrichme" />
 	<property name="password" value="WsXmm2181" />
-	<property name="webroot" value="/export/home/wwwmount/lges_alt/heinrichmeyer" />
+	<property name="webroot" value="/export/home/wwwmount/lges_alt/heinrichmeyer/nikola" />
 	<property name="webserver" value="redwood.fernuni-hagen.de" />
-	<property name="local_path_in_workspace" value="out" />
+	<property name="local_path_in_workspace" value="output" />
 	<target name="deploy.website" description="Deploy to webserver">
 		<echo>Deploying to web server...</echo>
 		<scp trust="true" sftp="true" todir="${username}:${password}@${webserver}:${webroot}">
