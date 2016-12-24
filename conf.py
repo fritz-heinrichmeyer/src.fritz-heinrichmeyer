@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Fritz Heinrichmeyer"  # (translatable)
 BLOG_TITLE = "fritzer.fernuni-hagen.de"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "http://www.fernuni-hagen.de/lges_alt/heinrichmeyer/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -134,13 +134,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archiv"),
+        ("/index.html", "Startseite"),
+		("/archive.html", "Archiv"),
         ("/categories/", "Tags"),
 		(
 			(
 				("/pages/lehre/index.html", "Lehre"),
 				("/pages/sonstiges/index.html", "sonstiges"),
-				("/pages/privates/index.html", "privates"),
+#				("/pages/privates/index.html", "privates"),
 				("/pages/programmierung/index.html", "programmierung"),
 			), 
 			"Pages"
