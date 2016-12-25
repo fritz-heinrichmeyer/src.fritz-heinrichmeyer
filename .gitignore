@@ -32,3 +32,4 @@ CVS
 *.gz
 #wegen picasa
 *.ini
+*.json
