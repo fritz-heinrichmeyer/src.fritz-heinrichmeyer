@@ -564,7 +564,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 # DEPLOY_COMMANDS = {
 #     'default': [
-#         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+#         "winscp.com /script=example.txt output/ ziel ",
 #     ]
 # }
 
