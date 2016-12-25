@@ -14,7 +14,7 @@ habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
 
 Ich werde zum Anfang Oktober 2016 in den Ruhestand versetzt!
 
-(FrÃ¼her: siehe unten)
+(Früher: siehe unten)
 
 
 Diplomstudiengang
