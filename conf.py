@@ -562,11 +562,11 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         "winscp.com /script=example.txt output/ ziel ",
-#     ]
-# }
+DEPLOY_COMMANDS = {
+     'default': [
+         "winscp.com /script=example.txt output/ ziel ",
+     ]
+ }
 
 # github_deploy configuration
 # For more details, read the manual:
