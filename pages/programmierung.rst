@@ -40,5 +40,5 @@ Programme/Frameworks
 Sonstiges
 ---------
 
-`HTML-Dokumentation <http://de.selfhtml.org/>`_
-`Mein Blog bei Blogspot <http://heinrichmeyer.blogspot.com/>`_
+- `HTML-Dokumentation <http://de.selfhtml.org/>`_
+- `Mein Blog bei Blogspot <http://heinrichmeyer.blogspot.com/>`_

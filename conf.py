@@ -135,7 +135,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 #        ("/index.html", "Startseite"),
-#		("/archive.html", "Archiv"),
+		("/archive.html", "Archiv"),
         ("/categories/", "Tags"),
 		(
 			(
@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
 				("/pages/sonstiges/index.html", "sonstiges"),
 #				("/pages/privates/index.html", "privates"),
 				("/pages/programmierung/index.html", "programmierung"),
-			), 
+			),
 			"Pages"
 		),
         ("/rss.xml", "RSS-Feed"),
@@ -184,7 +184,7 @@ THEME_COLOR = '#5670d4'
 # of a blog, while PAGES are just independent HTML pages.
 #
 # not a blog
-INDEX_PATH = "blog"
+INDEX_PATH = "posts"
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
