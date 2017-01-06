@@ -7,7 +7,8 @@
 .. description: 
 .. type: text
 
-Schreibe hier deinen Eintrag hin.
+`(Quelle) <http://ant.apache.org/manual/Tasks/input.html>`_.
+
 
    <input
     message="Please enter db-username:"
