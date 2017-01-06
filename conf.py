@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 #        ("/index.html", "Startseite"),
 		("/archive.html", "Archiv"),
+        ("/galleries/", "Galleries"),
         ("/categories/", "Tags"),
 		(
 			(
