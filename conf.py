@@ -564,7 +564,8 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
      'default': [
-         "winscp.com /script=example.txt output/ ziel ",
+         		 "winscp1.bat example.txt",
+		 
      ]
  }
 
