@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Fritz Heinrichmeyer"  # (translatable)
 BLOG_TITLE = "fritzer.fernuni-hagen.de"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://www.nlp-impulse.com/nikola/"
+SITE_URL = "https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
