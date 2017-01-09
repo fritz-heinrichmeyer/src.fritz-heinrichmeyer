@@ -11,7 +11,7 @@
 
 
    <input
-    message="Please enter db-username:"
+    message="Please enter db-password:"
     addproperty="db.user" />
 
 -input
