@@ -21,7 +21,7 @@ habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
 .. _Aphasie: https://de.wikipedia.org/wiki/Aphasie
 
 
-Ich werde zum Anfang Oktober 2016 in den Ruhestand versetzt!
+Ich wurde zum Anfang Oktober 2016 in den Ruhestand versetzt.
 
 (Früher: siehe unten)
 
