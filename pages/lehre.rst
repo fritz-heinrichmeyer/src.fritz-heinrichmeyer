@@ -1,4 +1,4 @@
-.. title: Lehre
+﻿.. title: Lehre
 .. slug: lehre
 .. date: 2016-12-12 13:50:58 UTC+01:00
 .. tags: 
@@ -6,6 +6,15 @@
 .. link: /lehre/index.hmtl
 .. description: lehre Fritz Heinrichmeyer
 .. type: text
+
+.. raw:: html
+ 
+ <ol class="breadcrumb">
+  <li><a href="http://www.fernuni-hagen.de/">FernUni</a></li>
+  <li><a href="http://www.fernuni-hagen.de/mathinf">Fakultät Mathematik und Informatik</a></li>
+  <li class="active">Heinrichmeyer</li>
+ </ol>
+
 
 habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
 
