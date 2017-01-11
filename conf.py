@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Fritz Heinrichmeyer"  # (translatable)
-BLOG_TITLE = "fritzer.fernuni-hagen.de"  # (translatable)
+BLOG_TITLE = "Fritz Heinrichmeyer"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://fritz-heinrichmeyer.github.io/-fritzer.fernuni-hagen.de/"
