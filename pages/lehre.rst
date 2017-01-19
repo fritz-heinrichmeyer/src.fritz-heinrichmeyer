@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: /lehre/index.hmtl
-.. description: lehre Fritz Heinrichmeyer
+.. description: lehre für Fritz Heinrichmeyer
 .. type: text
 
 .. raw:: html
