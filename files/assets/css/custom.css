@@ -1,6 +1,6 @@
-
-
-      h2 { color: green; }
+     /* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	/* h2 { color: green; } */
 	  .information > figure {
 	  float: left;
 	  margin: 0 -60px 0 10px;
@@ -9,12 +9,13 @@
 	  /* background-image: url(visi_icons.jpg) no-repeat bottom right; */
 	  background-color: #efefef;
 	  float: left;
-     /* width: 45em; */
-	  width: 71%;
+	  /* width: 45em; */
+	  width: 90%;
 	  margin: -30px  0px 0 0px;
 	  padding-left: 5em;
 	  }
-	  .information:after {
+      .information:after {
 		clear: left;
      }
+}
 
