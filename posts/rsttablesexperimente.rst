@@ -71,7 +71,7 @@ Tables Experimente, Grid system und Bilder
 
 text und Bilder
 
-Für die Ende der  rst- „raw“ Umgebung ist er rst-„..“-Ansatz (Zeile 63 in file.rst.) notwendig.
+Für die Ende der  rst- „raw“ Umgebung ist er rst-„..“-Ansatz (Zeile 46 in rsttablesexperimente.rst) notwendig.
 
 Grid System  und rst- „raw“ Umgebung mit „Bootstrap“.CSS- stylesheets  in RST zu arbeiten  ist möglich, aber nicht sehr komfortabel.
 
