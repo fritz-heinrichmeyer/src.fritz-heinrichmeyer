@@ -16,6 +16,14 @@ reStructuredText
 _Hyperlinks in reST: https://de.wikipedia.org/wiki/ReStructuredText
 
 
+textile
+-------
+
+Textile is also available as `RedCloth <http://redcloth.org/>`_ for Ruby
+
+`Textile Reference <http://redcloth.org/hobix.com/textile>`_ 
+
+
 Markdown
 --------
 
