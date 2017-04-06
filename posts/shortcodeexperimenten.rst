@@ -10,24 +10,28 @@
 Experimenten mit Makotemplates in Python und a shortcode
 --------------------------------------------------------
 
+..
+
 
 :sc:`{{% shortcodes %}}`
 
-Experimenten mit Makotemplates in Python und a shortcode
---------------------------------------------------------
+(Experimenten mit Makotemplates in Python und a shortcode und inline)
+------------------------------------------------------------------------------------
+
 `shortcodes (Source) </shortcodes/shortcodes.tmpl>`_
 
 
-.. raw:: html
 
 
-  {{% template %}}
-  <ul>
-  % for i in range(10): 
-  <li>${i}</li>
-  % endfor
-  </ul>
-  {{% /template %}}
+
+{{% template %}}
+% for i in range(10): 
+| body row ${i}
+% endfor
+% for i in range(10): 
++------------
+% endfor
+{{% /template %}}
 
 
-..
+(es klappt nicht!)
