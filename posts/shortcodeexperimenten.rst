@@ -23,15 +23,15 @@ Experimenten mit Makotemplates in Python und a shortcode
 
 
 
-
-{{% template %}}
+:sc:`{{% template %}}
 % for i in range(10): 
 | body row ${i}
 % endfor
+${chr(13)+chr(10)}${1+1}
 % for i in range(10): 
 +------------
 % endfor
-{{% /template %}}
+{{% /template %}}`
 
 
 (es klappt nicht!)
