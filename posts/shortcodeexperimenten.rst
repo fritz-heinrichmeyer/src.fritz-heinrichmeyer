@@ -34,4 +34,7 @@ ${chr(13)+chr(10)}${1+1}
 {{% /template %}}`
 
 
-(es klappt nicht!)
+Shortcodes inline and reStructuredText and Mako simultaneously fail!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(bzw. es klappt nicht!)
