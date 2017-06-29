@@ -33,5 +33,6 @@ CVS
 #wegen picasa
 *.ini
 *.json
+*.class
 #wegen emacs
 *~
