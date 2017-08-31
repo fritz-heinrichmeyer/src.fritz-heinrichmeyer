@@ -1,7 +1,7 @@
 .. title: Java-Applets
 .. slug: java-applets
 .. date: 2017-06-29 08:10:45 UTC+02:00
-.. tags: 
+.. tags: Java, applets
 .. category: 
 .. link: 
 .. description: 

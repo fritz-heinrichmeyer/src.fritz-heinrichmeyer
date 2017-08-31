@@ -1,7 +1,7 @@
 ﻿.. title: RSTtablesExperimente
 .. slug: rsttablesexperimente
 .. date: 2017-01-21 10:01:54 UTC+01:00
-.. tags: 
+.. tags: Java, RST
 .. category: 
 .. link: 
 .. description: RST Tables Experimente

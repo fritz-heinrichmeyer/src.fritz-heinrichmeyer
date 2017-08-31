@@ -1,7 +1,7 @@
 .. title: AntInputTask
 .. slug: antinputtask
 .. date: 2017-01-05 11:37:51 UTC+01:00
-.. tags: 
+.. tags: Java 
 .. category: 
 .. link: 
 .. description: antinputtask für Fritz Heinrichmeyer

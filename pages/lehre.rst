@@ -1,7 +1,7 @@
 ﻿.. title: Lehre
 .. slug: lehre
 .. date: 2016-12-12 13:50:58 UTC+01:00
-.. tags: 
+.. tags: Aphasie, Diplom
 .. category: 
 .. link: /lehre/index.hmtl
 .. description: lehre für Fritz Heinrichmeyer
