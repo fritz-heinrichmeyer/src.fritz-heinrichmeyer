@@ -13,7 +13,7 @@ oldsrc
 www.test.out
 CVS
 #*.gif
-*.pdf
+#*.pdf
 *.jpg
 *.jpeg
 *.JPG

@@ -13,12 +13,15 @@
 
 
 
-Doktorarbeit
+Dissertation
 ============
 
 
-Thema:
-------
+`script.pdf <script.pdf>`_
+
+
+Dissertation, Universität Erlangen-Nürnberg 1989
+
 
 Beiträge zur Lösung des Approximationsproblems im Tschebyscheff'schen Sinne beim Systementwurf
 ----------------------------------------------------------------------------------------------
@@ -41,8 +44,21 @@ Da in der Praxis sich widersprechende Zielfunktionen gegeben sind, ist es notwen
 
 Im letzten Kapitel werden Beispielprobleme zu den vorher erwähnten Methoden besprochen. Außerdem wird über weitere im Laufe der Arbeit gewonnene praktische Erfahrungen berichtet.
 
+Beispiele
+---------
+Diskretes Psophometerfilter:
+
+
+
+
 .. image:: psophometer.gif
    :alt: psophometer
+
+
+
+
+
+Gleichzeitige Approximation von Dämpfung und Gruppenlaufzeit:
 
 
 .. image:: luminanz.gif
