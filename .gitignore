@@ -12,7 +12,7 @@ oldsrc
 #wegen FileZilla 
 www.test.out
 CVS
-*.gif
+#*.gif
 *.pdf
 *.jpg
 *.jpeg
