@@ -30,7 +30,7 @@ Das Programm TOPT wurde in *C* geschrieben
 
 C++ virtuelle Klassen und virtuelle Methoden wurden durch C Zeiger simuliert.
 
-Beipiel:
+Beispiel:
 
 .. code-block:: C 
 
