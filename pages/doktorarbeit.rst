@@ -17,7 +17,7 @@ Dissertation
 ============
 
 
-`script.pdf <script.pdf>`_
+.. `script.pdf <script.pdf>`_
 
 
 Dissertation, Universität Erlangen-Nürnberg 1989
@@ -58,19 +58,30 @@ Beispiel:
 
 Beispiele
 ---------
-Diskretes Psophometerfilter:
+Diskretes Psophometerfilter
+---------------------------
 
-
+Ergebnis einer Dämpfungsnäherung mit vielen verschiedenen Gewichten.
 
 
 .. image:: psophometer.gif
    :alt: psophometer
 
+Das nächste Bild zeigt die normalisierte Fehlerkurve
+
+.. image:: error.gif
+   :alt: Fehlerkurve
 
 
 
-
+Luminanzfilter
+--------------
 Gleichzeitige Approximation von Dämpfung und Gruppenlaufzeit:
+
+Die Gruppenverzögerung eines gegebenen Anti-Alias-Tiefpasses wurde ausgeglichen. Das Gewicht der Fehlerfunktion zerfällt linear, so dass die Toleranzröhre eher wie eine Trompete aussieht.
+
+
+
 
 
 .. image:: luminanz.gif
