@@ -7,29 +7,23 @@
 .. description: lehre für Fritz Heinrichmeyer
 .. type: text
 
-.. raw:: html
- 
- <ol class="breadcrumb">
-  <li><a href="http://www.fernuni-hagen.de/">FernUni</a></li>
-  <li><a href="http://www.fernuni-hagen.de/mathinf">Fakultät Mathematik und Informatik</a></li>
-  <li class="active">Heinrichmeyer</li>
- </ol>
 
 
-habe ich zu Zeit keine Lehraufgabe (Schlaganfall, Aphasie_.)
 
-.. _Aphasie: https://de.wikipedia.org/wiki/Aphasie
 
+
+
+bin ich pensioniert. 
 
 Ich wurde zum Anfang Oktober 2016 in den Ruhestand versetzt.
 
-(Früher: siehe unten)
+Während meiner Dienstzeit an der Fernuniversität Hagen habe ich folgende Aufgaben erfüllt:
 
 
 Diplomstudiengang
 =================
 
-`Organisation der Praktika im Diplomstudiengang <http://www.fernuni-hagen.de/lges/lehrangebot/diplompraktika/>`_
+Organisation der Praktika im Diplomstudiengang 
 
 Praktikumsversuche
 ------------------
@@ -50,8 +44,8 @@ Master Elektro- und Informationstechnik
 
 Jeweils Betreuung zweier Vorlesungen, Prüfung, Praktikum und Seminar, Neueinschreibung nicht mehr möglich
 
-- Modul `21410 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_ds/>`_ Digitale Signalverarbeitung
-- Modul 21420 `21420 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_es/>`_ Elektronische Schaltungen †
-- Modul 21780 `21480 <http://www.fernuni-hagen.de/lges/lehrangebot/modul_se/>`_ Softwarearchitektur und Entwicklungswerkzeuge †
+- Modul 21410  Digitale Signalverarbeitung
+- Modul 21420  Elektronische Schaltungen †
+- Modul 21780  Softwarearchitektur und Entwicklungswerkzeuge †
 
 † : Letztmalig im Wintersemester 2012/13

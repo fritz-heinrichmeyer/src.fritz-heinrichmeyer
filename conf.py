@@ -141,13 +141,14 @@ NAVIGATION_LINKS = {
 		(
 			(
 				("/pages/lehre/index.html", "Lehre"),
-				("/pages/sonstiges/index.html", "Sonstiges"),
+#				("/pages/sonstiges/index.html", "Sonstiges"),
 #				("/pages/privates/index.html", "privates"),
 				("/pages/programmierung/index.html", "Programmierung"),
 				("/pages/Doktorarbeit/index.html", "Doktorarbeit"),
 			),
-			"Pages"
+			"Beruf"
 		),
+		("/pages/privates/index.html", "Privates"),
         ("/rss.xml", "RSS-Feed"),
     ),
 }
