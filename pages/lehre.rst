@@ -17,7 +17,7 @@ bin ich pensioniert.
 
 Ich wurde zum Anfang Oktober 2016 in den Ruhestand versetzt.
 
-Während meiner Dienstzeit an der Fernuniversität Hagen habe ich folgende Aufgaben erfüllt:
+Während meiner Dienstzeit an der `Fernuniversität Hagen <http://www.fernuni-hagen.de/>`_ habe ich folgende Aufgaben erfüllt:
 
 
 Diplomstudiengang
