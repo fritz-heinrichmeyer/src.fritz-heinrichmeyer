@@ -10,16 +10,16 @@
 -->
 
 
-  Ich wohne in Hemer in NRW, bin verheiratet(mit "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com) und habe zwei Kinder:Luise und Karl.
- 
-* Ein schönes Bild:
- 
-!(img-circle)/luise.jpg!
-(205 kByte von Tochter Luise Heinrichmeyer, 5 1/2 Jahre)
+  Ich wohne in Hemer in NRW, bin verheiratet (mit "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com) und habe zwei Kinder: Luise und Karl.
 
-* "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com (deine Frau)
-* "https://www.nlp-impulse.com/":https://www.nlp-impulse.com/
-* Meine "Webseite":https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/
-* Mein Bruder "Richard Heinrichmeyer":http://www.heinrichmeyer.de 
+Meine Tochter Luise studierte Psychologie (wie die Mutter,  Masterabschluss), mein Sohn Karl studiert Informatik (Master-Studiengang).
+ 
+###. * Ein schönes Bild:
+ 
+###. !(img-circle)/luise.jpg!
+###. (205 kByte von Tochter Luise Heinrichmeyer, 5 1/2 Jahre)
+
+* Hier geht es zu den Webseiten meiner Frau: "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com und "NLP-IMPULSE":https://www.nlp-impulse.com/
+* Hier geht es zur Webseite meines Bruders: "Richard Heinrichmeyer":http://www.heinrichmeyer.de 
 
 
