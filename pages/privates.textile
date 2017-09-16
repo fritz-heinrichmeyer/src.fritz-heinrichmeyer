@@ -1,0 +1,25 @@
+<!--
+.. title: Privates
+.. slug: privates
+.. date: 2016-12-17 15:56:03 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: Privates von Fritz Heinrichmeyer
+.. type: text
+-->
+
+
+  Ich wohne in Hemer in NRW, bin verheiratet(mit "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com) und habe zwei Kinder:Luise und Karl.
+ 
+* Ein schönes Bild:
+ 
+!(img-circle)/luise.jpg!
+(205 kByte von Tochter Luise Heinrichmeyer, 5 1/2 Jahre)
+
+* "Gudrun Heinrichmeyer":https://www.gudrun-heinrichmeyer.com (deine Frau)
+* "https://www.nlp-impulse.com/":https://www.nlp-impulse.com/
+* Meine "Webseite":https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/
+* Mein Bruder "Richard Heinrichmeyer":http://www.heinrichmeyer.de 
+
+
