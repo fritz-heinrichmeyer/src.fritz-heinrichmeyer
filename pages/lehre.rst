@@ -13,9 +13,7 @@
 
 
 
-bin ich pensioniert. 
-
-Ich wurde zum Anfang Oktober 2016 in den Ruhestand versetzt.
+Seit Oktober 2016 bin ich pensioniert.
 
 Während meiner Dienstzeit an der `Fernuniversität Hagen <http://www.fernuni-hagen.de/>`_ habe ich folgende Aufgaben erfüllt:
 
