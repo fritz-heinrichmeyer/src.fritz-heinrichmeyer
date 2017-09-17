@@ -14,7 +14,7 @@ www.test.out
 CVS
 #*.gif
 #*.pdf
-*.jpg
+#*.jpg
 *.jpeg
 *.JPG
 *.png
