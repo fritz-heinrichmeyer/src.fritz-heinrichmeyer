@@ -1,16 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Dr.- Ing. Friedrich Johann Heinrichmeyer
-N:Heinrichmeyer;Friedrich;Johann;Dr.- Ing.;
-EMAIL;TYPE=INTERNET;TYPE=HOME:fritz.heinrichmeyer@gmail.com
-EMAIL;TYPE=INTERNET;TYPE=WORK:fritz.heinrichmeyer@fernuni-hagen.de
+FN:Fritz Heinrichmeyer
+N:Heinrichmeyer;Fritz;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Fritz.Heinrichmeyer@gmail.com
+TEL;TYPE=CELL:0176 386 183 82
 TEL;TYPE=HOME:02372 2497
-TEL;TYPE=CELL:017638618382
-ADR;TYPE=HOME:;;Theo-Funccius-Str. 16;Hemer;;58675;Deutschland
-ORG:Fernuniversität in Hagen
-TITLE:Akademischer Oberrat a.D.
-BDAY:1954-10-18
-URL:http\://www.fernuni-hagen.de/lges_alt/heinrichmeyer/
-
-ROLE:Akademischer Oberrat a.D.
+ADR;TYPE=HOME:;;Theo-Funccius-Str. 16 ;Hemer;;58675;
+item1.URL:https\://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/
+item1.X-ABLabel:PROFILE
+NOTE:Akademischer Oberrat a.D.\,\nDr.-Ing.Fritz Heinrichmeyer  aus Hemer\n
 END:VCARD
