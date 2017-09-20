@@ -19,7 +19,7 @@ Telefon 02372 2497
 
 mobil: 0176 386 183 82
 
-*"fritz.heinrichmeyer@gmail.com":mailto:info@gudrun-heinrichmeyer.com*
+*"fritz.heinrichmeyer@gmail.com":mailto:fritz.heinrichmeyer@gmail.com*
 	
 
 h2. Haftungsausschluss
