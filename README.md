@@ -4,7 +4,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Homeseite von Fritz Heinrichmeyer [Fritz Heinrichmeyer](https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/)
+* Homeseite von Fritz Heinrichmeyer [Fritz Heinrichmeyer](https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/) und 
+[fritz-heinrichmeyer](https://www.fritz-heinrichmeyer.de/)
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
