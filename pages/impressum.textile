@@ -19,7 +19,8 @@ Telefon 02372 2497
 
 mobil: 0176 386 183 82
 
-*"fritz.heinrichmeyer@gmail.com":mailto:fritz.heinrichmeyer@gmail.com*
+<p><strong><a href="mailto:fritz.heinrichmeyer@gmail.com">fritz.heinrichmeyer@gmail.com</a></strong></p>
+
 	
 
 h2. Haftungsausschluss
