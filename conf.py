@@ -150,7 +150,7 @@ NAVIGATION_LINKS = {
 			"Beruf"
 		),
 		("/pages/privates/index.html", "Privates"),
-        ("/rss.xml", "RSS-Feed"),
+ #       ("/rss.xml", "RSS-Feed"),
     ),
 }
 
