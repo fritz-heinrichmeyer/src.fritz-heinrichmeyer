@@ -15,6 +15,11 @@ Ab Firefox-Version 52 (im März 2017 freigegeben) funktionieren Java-Applets nic
 
 Sie müssen "appletviewer <url>" verwenden (in jdk(Java Java Development Kit)-131 enthalten) `Java SE 8 Update 131 <http://www.oracle.com/technetwork/java/javase/downloads/index.html>`_ 
 
+Tipp:
+
+Bitte wiederholen Sie den Aufruf von "appletviewer <url>", wenn es nicht beim ersten Mal geklappt hat! 
+
+
 Diskrete Faltung
 ----------------
 `Diskrete Faltung </pages/diskrete_faltung/index.html>`_ 
