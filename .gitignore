@@ -24,7 +24,7 @@ CVS
 *.LOG
 *.log
 *.rtf
-*.jar
+#*.jar
 *.exe
 *.cache
 *.lnk
