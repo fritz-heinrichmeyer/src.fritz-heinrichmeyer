@@ -35,4 +35,7 @@ CVS
 *.json
 #*.class
 #wegen emacs
+#06.03.2018 wegen plugin -i textile
 *~
+*.pyc
+plugins
