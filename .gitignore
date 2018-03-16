@@ -39,3 +39,6 @@ CVS
 *~
 *.pyc
 plugins
+# wegen virtual environment
+requirements.txt
+fritz
