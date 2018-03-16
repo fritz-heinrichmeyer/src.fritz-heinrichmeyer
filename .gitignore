@@ -42,3 +42,4 @@ plugins
 # wegen virtual environment
 requirements.txt
 fritz
+*.lftp
