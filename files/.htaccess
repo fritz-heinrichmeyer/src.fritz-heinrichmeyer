@@ -1,0 +1,7 @@
+AddType text/plain .vcf 
+#wegen appletviewer usw. *class dateien: (hat nicht geholfen)
+AddType text/plain .class 
+#hat nicht geholfen:
+#<FilesMatch "\.vcf$">
+#	ForceType text/plain
+#</FilesMatch>
