@@ -14,7 +14,7 @@
 
 *Meine Familie*
 
- !Familie.jpg!
+###. !Familie.jpg!
 <br /><br />
 Meine Tochter Luise studierte Psychologie (wie die Mutter,  Masterabschluss), mein Sohn Karl studiert Informatik (Master-Studiengang).
  
