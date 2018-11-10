@@ -155,7 +155,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "fritz" # in wirklichkeit: yeti
+THEME = "fritz-neu" # in wirklichkeit: yeti
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -1183,7 +1183,7 @@ EXTRA_HEAD_DATA = '<link rel="icon" href="/favicon.ico" type="image/x-icon" />'
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
