@@ -141,15 +141,15 @@ NAVIGATION_LINKS = {
         ("/categories/", "Tags"),
 		(
 			(
-				("/pages/lehre/index.html", "Lehre"),
-#				("/pages/sonstiges/index.html", "Sonstiges"),
-#				("/pages/privates/index.html", "privates"),
-				("/pages/programmierung/index.html", "Programmierung"),
-				("/pages/Doktorarbeit/index.html", "Doktorarbeit"),
+				("/pages/lehre/", "Lehre"),
+#				("/pages/sonstiges/", "Sonstiges"),
+#				("/pages/privates/", "privates"),
+				("/pages/programmierung/", "Programmierung"),
+				("/pages/Doktorarbeit/", "Doktorarbeit"),
 			),
 			"Beruf"
 		),
-		("/pages/privates/index.html", "Privates"),
+		("/pages/privates/", "Privates"),
  #       ("/rss.xml", "RSS-Feed"),
     ),
 }
@@ -872,13 +872,9 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
-CONTENT_FOOTER = """<div class="text-center">
-<div class="siegel"><table>
-
-</table></div>
-</div>
-<p><a href="/pages/impressum/" rel="nofollow">Impressum</a>, <a href="/pages/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>          {license}
-</p>"""
+CONTENT_FOOTER = """ <div class="text-center">
+<p><a href="/pages/impressum/" rel="nofollow">Impressum</a>, <a href="/pages/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>  </div>        {license}
+</p>  """
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
 # intelligently format the setting properly.
