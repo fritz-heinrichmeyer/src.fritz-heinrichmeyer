@@ -1,6 +1,7 @@
-AddType text/plain .vcf 
-#wegen appletviewer usw. *class dateien: (hat nicht geholfen)
-AddType text/plain .class 
+# AddType text/plain .vcf 
+# hat nicht geholfen:
+ AddType application/java-vm .class
+#  [application/java-vm]
 #hat nicht geholfen:
 #<FilesMatch "\.vcf$">
 #	ForceType text/plain
