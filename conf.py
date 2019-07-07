@@ -668,7 +668,7 @@ GITHUB_COMMIT_SOURCE = True
 # More gallery options:
 # THUMBNAIL_SIZE = 180
 # MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
+USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
