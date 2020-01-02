@@ -7,7 +7,11 @@
 .. description: ZWAR für Fritz Heinrichmeyer
 .. type: text
 
-Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelles.htm>`_ (Alles, was mir besonders wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch `zwar netzwerke <https://www.zwar.org/de/zwar-netzwerke/>`_ 
+Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelles.htm>`_ (Alles, was mir besonders wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch `zwar netzwerke <https://www.zwar.org/de/zwar-netzwerke/>`_
+
+(**TIP**: *google Calendar* knöpfe anklicken)
+
+(Die Termine werden in deinen google kalender eintragen)
 
 .. raw:: html
 
