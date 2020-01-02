@@ -1,6 +1,6 @@
 <!--
-.. title: Privates
-.. slug: privates
+.. title: Familie
+.. slug: familie
 .. date: 2018-05-25 15:56:03 UTC+01:00
 .. tags: 
 .. category: 

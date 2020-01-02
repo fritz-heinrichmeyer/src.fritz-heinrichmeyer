@@ -149,9 +149,15 @@ NAVIGATION_LINKS = {
 			),
 			"Beruf"
 		),
-		("/pages/privates/", "Privates"),
+		( (
+                    ("/pages/familie/", "Familie"),
+                  ("/pages/zwar/", "ZWAR"),
+#                ("/pages/zwar-inhalt/", "ZWAR-Termine"),
+                    ), "Privates"),
+    )
+                  
  #       ("/rss.xml", "RSS-Feed"),
-    ),
+ #   ),
 }
 
 # Name of the theme to use.
