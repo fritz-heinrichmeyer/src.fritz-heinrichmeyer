@@ -25,7 +25,8 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
 ZWAR – Basis-Treffen
 ====================
 
-Das ist die **wichtigste** Veranstaltung für mich. Ich muss **selbst** in hingehen(*wie altmodisch!!*).Nur dort bekommen ich die Kontakt-Daten von den Gruppen. Die treffen sich 14-tägigen Rhythmus *in Parkstraße 3, 58675 Hemer, Deutschland (JUK: Jugend Zentrum ) um 18.00 Uhr*.Das nächste Basis-Treffen ist *02.01.2020 18.00 Uhr*.
+Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer, (JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen ist am 02.01.2020 um 18.00 Uhr.
+
 
 .. raw:: html
 	 
@@ -45,13 +46,12 @@ Meine Gruppen habe eine Stern
 
     • Handarbeiten 
     • Film und Foto
-    • Film und Foto
     • Laienspielgruppe 
     • Singen
     • Doppelkopf
     • Witzegruppe
     • Kochen
-    • Inilnern 
+    • Inlinern 
     • Skilaufen
     • Schwimmen
     • Schlittschuhlaufen
@@ -67,7 +67,7 @@ für mich Besondere wichtige Gruppen
 Repair Café
 -----------
 
-Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (*in Apricker Weg 21, 58675 Hemer,Haus 34 Deutschland*) zur Nutzung freigegeben.Das nächste Repair Café startet am *04.01.2020, 14.00 Uhr*.
+Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das nächste Repair Café startet am 04.01.2020 um 14.00 Uhr. 
 
 .. raw:: html
 
@@ -77,7 +77,9 @@ Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (*in Apricker Weg 21, 586
 Nordic-Walking
 --------------
 
-Die Nordic-Walking Gruppen treffen sich jeden Montag um 14:00, *jeden Mittwoch um 17:00 Uhr* an der und *Freitag  um 10.00 Uhr „Ente“ in Deilinghofen*, nahe beim Eingang zum Sauerlandpark.
+Die Nordic-Walking Gruppen treffen sich jeden Montag um 14:00 Uhr, jeden Mittwoch um 17:00 Uhr und jeden Freitag um 10.00 Uhr bei der „Ente“ in Deilinghofen, nahe beim Eingang zum Sauerlandpark.
+
+
 
 Wandern mit Spaß
 ----------------
