@@ -62,7 +62,9 @@ Meine Gruppen habe eine Stern
     • Soundgarten *
 
 
-für mich Besondere wichtige Gruppen
+Für mich Besonders wichtige Gruppen
+===================================
+
 
 Repair Café
 -----------
@@ -83,11 +85,14 @@ Die Nordic-Walking Gruppen treffen sich jeden Montag um 14:00 Uhr, jeden Mittwoc
 
 Wandern mit Spaß
 ----------------
-Am 28.12. 2019 um 13:00 haben wir uns am Parkplatz Riemker Weg / Forstweg getroffen. 
+Am 28.12. 2019 um 13:00 haben wir uns am Parkplatz Riemker Weg / Forstweg getroffen.
+
 Soundgarten
+-----------
+
 Gemütlich zusammensitzen bei Life Musik im Soundgarten Hemer 
 
-was mir fehlt
+Was mir fehlt
 =============
 
 Malen (mit Acrylfarben ) .
