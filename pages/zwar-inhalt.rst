@@ -11,7 +11,7 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
 
 (**TIP**: *google Calendar* knöpfe anklicken)
 
-(Die Termine werden in deinen google kalender eintragen)
+(Die Termine werden in Deinen Google Kalender eingetragen)
 
 .. raw:: html
 
