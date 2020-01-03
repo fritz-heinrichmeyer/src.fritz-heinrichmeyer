@@ -25,12 +25,13 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
 ZWAR – Basis-Treffen
 ====================
 
-Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer, (JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen ist am 02.01.2020 um 18.00 Uhr.
+Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer, (JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen ist am 16.01.2020 um 18.00 Uhr.
 
 
 .. raw:: html
 	 
- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmtza3VjaG9ydXBzN3ZoOTlnOHRqaDdsZDggZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
+ <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nzk1cmFzMnE0c2J0dmVlaTNnb2k1dTFudGcgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
+
 
 
  
@@ -74,6 +75,7 @@ Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 H
 .. raw:: html
 
  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2t2cGZwcTZkNGNhMGZ2MmhkNjR1dGpnOXEgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
+
 
 
 Nordic-Walking
