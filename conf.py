@@ -140,20 +140,20 @@ NAVIGATION_LINKS = {
         ("/galleries/", "Galleries"),
         ("/categories/", "Tags"),
 		(
-			(
+		    (
 				("/pages/lehre/", "Lehre"),
 #				("/pages/sonstiges/", "Sonstiges"),
 #				("/pages/privates/", "privates"),
 				("/pages/programmierung/", "Programmierung"),
 				("/pages/Doktorarbeit/", "Doktorarbeit"),
-			),
+		    ),
 			"Beruf"
 		),
-		( (
+		(
+                    (
                     ("/pages/familie/", "Familie"),
                   ("/pages/zwar/", "ZWAR"),
-#                ("/pages/zwar-inhalt/", "ZWAR-Termine"),
-                    ), "Privates"),
+                    ), "Privates" ),
     )
                   
  #       ("/rss.xml", "RSS-Feed"),
