@@ -69,7 +69,7 @@ Für mich Besonders wichtige Gruppen
 Repair Café
 -----------
 
-Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café ist immer am jedem ersten Samstag im Monat. Das nächste Repair Café startet am 01.02.2020 um 14.00 Uhr. 
+Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt. Das nächste Repair Café startet am 01.02.2020 um 14.00 Uhr. 
 
 .. raw:: html
 
