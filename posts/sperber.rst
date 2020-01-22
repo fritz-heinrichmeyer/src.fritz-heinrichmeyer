@@ -12,7 +12,7 @@
    :align: center
 
   
-Der Sperber(Greifvögel) Überfall in Hemer:
-------------------------------------------
+Ein Sperber-Besuch in Hemer:
+
 Ist er nicht süß?
 
