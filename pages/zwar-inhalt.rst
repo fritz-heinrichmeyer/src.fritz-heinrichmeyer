@@ -25,17 +25,14 @@ ZWAR – Basis-Treffen
 ====================
 
 Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer,
-(JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen findet am 30.01.2020 um 18.00 Uhr statt.
+(JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen findet am `13.02.2020  <https:ZWAR.ics>`_ um 18.00 Uhr statt.
 
 **neu:** Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 
 .. raw:: html
-	 
- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3BqcXRnNDk2b2VqNGd2YnRicml0Z2U3cWMgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
 
-
-
+ <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3B0aGFpczNicm5oMzgzMzlqZ25vNGNkb2sgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
  
 
 
