@@ -25,7 +25,7 @@ ZWAR – Basis-Treffen
 ====================
 
 Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer,
-(JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen findet am `13.02.2020  <https:ZWAR.ics>`_ um 18.00 Uhr statt.
+(JUK: Jugend Zentrum) um 18.00 Uhr. Das nächste Basis-Treffen findet am `13.02.2020  </pages/zwar/ZWAR-basis.ics>`_ um 18.00 Uhr statt.
 
 **neu:** Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
@@ -69,13 +69,11 @@ Für mich Besonders wichtige Gruppen
 Repair Café
 -----------
 
-Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt. Das nächste Repair Café startet am 01.02.2020 um 14.00 Uhr. 
+Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt. Das nächste Repair Café startet am `07.03.2020 </pages/zwar/ZWAR-repair.ics>`_ um 14.00 Uhr. 
 
 .. raw:: html
 
- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDFkc3IwNjdkNzNxZDZjZXZ0b29mcWpiNWcgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
-
-
+ <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmJzMHUyMjNrM2ZrZDNpZHUzMWpncTJiMGcgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
 
 Nordic-Walking
 --------------
