@@ -9,7 +9,8 @@
 
 Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelles.htm>`_ (Alles, was mir besonders wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch `zwar netzwerke <https://www.zwar.org/de/zwar-netzwerke/>`_
 
-(**TIP**: *Google Calendar* Links anklicken, um den Termin in Ihrem Google Kalender einzutragen)
+.. 
+ (**TIP**: *Google Calendar* Links anklicken, um den Termin in Ihrem Google Kalender einzutragen)
 
 
 .. raw:: html
@@ -30,8 +31,8 @@ Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*w
 **neu:** Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
 
-.. raw:: html
-
+.. 
+ vorher: raw:: html
  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3B0aGFpczNicm5oMzgzMzlqZ25vNGNkb2sgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
  
 
@@ -71,8 +72,8 @@ Repair Café
 
 Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt. Das nächste Repair Café startet am `07.03.2020 </pages/zwar/ZWAR-repair.ics>`_ um 14.00 Uhr. 
 
-.. raw:: html
-
+.. 
+ vorher: raw:: html
  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmJzMHUyMjNrM2ZrZDNpZHUzMWpncTJiMGcgZnJpdHouaGVpbnJpY2htZXllckBt&amp;tmsrc=fritz.heinrichmeyer%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_de.gif"></a>
 
 Nordic-Walking
