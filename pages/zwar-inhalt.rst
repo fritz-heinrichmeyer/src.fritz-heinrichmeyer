@@ -18,6 +18,15 @@ Diese Seiten sind ein Auszug vom `ZWAR Hemer  <http://www.zwar-hemer.de/aktuelle
  <abbr title="Zwischen Arbeit und Ruhestand">ZWAR</abbr>
 
 
+.. class:: text-warning
+
+**Nachrichten zu Pandemie :** Veranstaltungen, die wegen Corona ausfallen:
+   -  Basis-Treffen am 26.03.2020
+   -  Repair Café am 04.04.2020
+
+
+
+
 
 
 
@@ -26,11 +35,20 @@ ZWAR – Basis-Treffen
 ====================
 
 Das ist die **wichtigste** Veranstaltung für mich. Ich muss selbst hingehen (*wie altmodisch!!*). Nur dort bekomme ich die Kontakt-Daten von den Gruppen. Wir treffen uns im 14-tägigen Rhythmus in der Parkstraße 3, 58675 Hemer,
-(JUK: Jugend Zentrum) um 18.00 Uhr, nächste Basis-Treffen findet am `26.03.2020  </pages/zwar/ZWAR-basis.ics>`_ **ausnahmsweise** in Bürgerzentrum "Altes Amtshaus", Hauptstraße 116, 58675 Hemer,  um 18.00 Uhr statt.
+(JUK: Jugend Zentrum) um 18.00 Uhr,
+
+.. 
+ nächste Basis-Treffen findet am `26.03.2020  </pages/zwar/ZWAR-basis.ics>`_ **ausnahmsweise** in Bürgerzentrum "Altes Amtshaus", Hauptstraße 116, 58675 Hemer,  um 18.00 Uhr statt.
+
+
 
 
 **neu:** Ab April findet das Basis-Treffen Dienstag (14-tägigen Rhythmus) um 17.00 Uhr - 20.00 Uhr Parkstraße 3, 58675 Hemer (JUK: Jugend Zentrum) statt.
 
+.. class:: text-warning
+
+
+Die Stadt hat bis zum 19.04.2020 das Jugend Zentrum ( JUK: Parkstraße 3, 58675 Hemer ) geschlossen.
 
 .. 
  vorher: raw:: html
@@ -71,7 +89,10 @@ Für mich Besonders wichtige Gruppen
 Repair Café
 -----------
 
-Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt. Das nächste Repair Café startet am `04.04.2020 </pages/zwar/ZWAR-repair.ics>`_ um 14.00 Uhr. 
+Die Stadt Hemer hat einen Raum in der KEA Deilinghofen (Apricker Weg 21, 58675 Hemer, Haus 34) zur Nutzung freigegeben. Das Repair Café findet immer am jedem ersten Samstag im Monat statt.
+
+..
+ Das nächste Repair Café startet am `04.04.2020 </pages/zwar/ZWAR-repair.ics>`_ um 14.00 Uhr.
 
 .. 
  vorher: raw:: html
