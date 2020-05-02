@@ -11,8 +11,6 @@
 
 
 
-Datenschutzerklärung
-====================
 
 Geltungsbereich
 ---------------
@@ -25,7 +23,10 @@ Theo-Funccius-Str. 16
 
 58675 Hemer 
 
-Telefon (Privat): +49 2372 2497 
+Telefon (Privat): +49 2372 2497
+
+Telefon(mobil): +49 176 386 183 82
+
 
 Mail: fritz.heinrichmeyer@gmail.com 
 

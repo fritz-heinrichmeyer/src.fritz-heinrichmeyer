@@ -47,7 +47,7 @@ Diskrete Faltung
 ----------------
 .. class:: text-warning
 
- Diskrete Faltung1 `Diskrete Faltung1 </pages/diskrete_faltung/index.html>`_
+ Diskrete Faltung1 `Diskrete Faltung1 </diskrete_faltung/index.html>`_
 
 
 `Diskrete Faltung2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/diskrete_faltung/index.html>`_
@@ -56,7 +56,7 @@ Systementwurf mit der Maus
 --------------------------
 .. class:: text-warning
 	   
-Systementwurf mit der Maus1 `Systementwurf mit der Maus1 </pages/systementwurf_mit_der_maus/index.html>`_
+Systementwurf mit der Maus1 `Systementwurf mit der Maus1 </systementwurf_mit_der_maus/index.html>`_
 
 `Systementwurf mit der Maus2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/systementwurf_mit_der_maus/index.html>`_
 
@@ -64,7 +64,7 @@ Java 2D Funktionsplotter
 ------------------------
 .. class:: text-warning
 
-Java 2D Funktionsplotter1 `Java 2D Funktionsplotter1 </pages/java_zwei_d_funktionsplotter/index.html>`_
+Java 2D Funktionsplotter1 `Java 2D Funktionsplotter1 </java_zwei_d_funktionsplotter/index.html>`_
 
 `Java 2D Funktionsplotter2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_zwei_d_funktionsplotter/index.html>`_
 
@@ -72,6 +72,6 @@ Java 3D Funktionsplotter
 ------------------------
 .. class:: text-warning
 
-Java 3D Funktionsplotter1 `Java 3D Funktionsplotter1 </pages/java_drei_d_funktionsplotter/index.html>`_
+Java 3D Funktionsplotter1 `Java 3D Funktionsplotter1 </java_drei_d_funktionsplotter/index.html>`_
 
 `Java 3D Funktionsplotter2 <https://fritz-heinrichmeyer.github.io/fritz-heinrichmeyer/pages/java_drei_d_funktionsplotter/index.html>`_

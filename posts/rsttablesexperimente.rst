@@ -84,7 +84,7 @@ Grid System  und rst- „raw“ Umgebung mit „Bootstrap“.CSS- stylesheets  i
 
 **Ein schönes Bild:**
 
-.. class:: "img-circle"
+.. class:: "rounded-circle"
 
 .. image:: /luise.jpg
    :alt: ein schönes Bild

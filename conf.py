@@ -141,18 +141,18 @@ NAVIGATION_LINKS = {
         ("/categories/", "Tags"),
 		(
 		    (
-				("/pages/lehre/", "Lehre"),
+				("/lehre/", "Lehre"),
 #				("/pages/sonstiges/", "Sonstiges"),
 #				("/pages/privates/", "privates"),
-				("/pages/programmierung/", "Programmierung"),
-				("/pages/Doktorarbeit/", "Doktorarbeit"),
+				("/programmierung/", "Programmierung"),
+				("/Doktorarbeit/", "Doktorarbeit"),
 		    ),
 			"Beruf"
 		),
 		(
                     (
-                    ("/pages/familie/", "Familie"),
-                  ("/pages/zwar/", "ZWAR"),
+                    ("/familie/", "Familie"),
+                  ("/zwar/", "ZWAR"),
                     ), "Privates" ),
     )
                   
@@ -202,12 +202,12 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
     ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.txt", "pages", "story.tmpl"),
     ("pages/*.textile", "pages", "story.tmpl"),
     ("pages/index.html", "", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
     ("stories/*.txt", "posts", "post.tmpl"),
 )
 
@@ -280,7 +280,7 @@ TIMEZONE = "Europe/Berlin"
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "textile":('.textile',),
+ #   "textile":('.textile',),
     "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "txt2tags": ('.t2t',),
@@ -879,7 +879,7 @@ LICENSE = ""
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = """ <div class="text-center">
-<p><a href="/pages/impressum/" rel="nofollow">Impressum</a>, <a href="/pages/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>  </div>        {license}
+<p><a href="/impressum/" rel="nofollow">Impressum</a>, <a href="/datenschutzerklaerung-fritz/" rel="nofollow">Datenschutzerklärung</a>- Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola </a>  </div>        {license}
 </p>  """
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

@@ -28,4 +28,4 @@ wichtig erscheint).(ZWAR: Zwischen Arbeit und Ruhestand) siehe auch
 Die Stadt hat bis zum 19.04.2020 das Jugend Zentrum ( JUK: Parkstraße 3, 58675 Hemer ) geschlossen.
 
 
-siehe auch `ZWAR Gruppe Hemer </pages/zwar/>`_
+siehe auch `ZWAR Gruppe Hemer </zwar/>`_
