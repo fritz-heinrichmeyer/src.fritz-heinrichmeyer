@@ -13,9 +13,10 @@
 .. raw:: html
 
  <h3>Fritz Heinrichmeyer</h3><br><br><!-- kommentar Fritz Heinrichmeyer -->
-  <div class="information" style="width: %70; height: %70" >
+  <div class="information" >
   <figure><img src="portrait-fritz.jpg" alt="Fritz Heinrichmeyer"><figcaption></figcaption></figure>
-  <h2>Fritz Heinrichmeyer</h2>
+  <div style="width: %70; height: %70" >
+  
   
 
 
@@ -37,9 +38,9 @@ Telefon(Privat): +49 02372 2497
 Mail: Fritz.Heinrichmeyer@gmail.com
 
 
-`GnuPG-Schlüssel <fritz.heinrichmeyer.asc>`_ ,  `vCard <Fritz_Heinrichmeyer.vcf>`_
+`Fritz_Heinrichmeyer.vcf <Fritz_Heinrichmeyer.vcf>`_
 
 .. raw:: html
 
- </div>
+ </div></div>
  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
