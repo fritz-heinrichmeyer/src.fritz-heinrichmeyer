@@ -9,9 +9,14 @@
 .. type: text
 -->
 
-<h3>Um den Funktionsplotter3D zu starten, klicken Sie bitte auf den nachfolgenden Button.</h3>
-<p><APPLET
-codebase="."
+Um den Funktionsplotter3D zu starten, klicken Sie bitte auf den nachfolgenden Button
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. raw:: html
+
+ <p><APPLET
+ codebase="."
   ARCHIVE  = "funktionsplotter3d.jar"
   CODE     = "StartFunktionsplotter3D.class"
   NAME     = "TestApplet"
@@ -20,5 +25,5 @@ codebase="."
   HSPACE   = 0
   VSPACE   = 0
   ALIGN    = middle
->
-</APPLET></p></p
+ >
+ </APPLET></p>
