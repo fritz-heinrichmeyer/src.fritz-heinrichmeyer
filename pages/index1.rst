@@ -15,7 +15,7 @@
  <h3>Fritz Heinrichmeyer</h3><br><br><!-- kommentar Fritz Heinrichmeyer -->
   <div class="information" >
   <figure><img src="portrait-fritz.jpg" alt="Fritz Heinrichmeyer"><figcaption></figcaption></figure>
-  <div style="width: %70; height: %70" >
+  <div >
   
   
 
@@ -43,4 +43,4 @@ Mail: Fritz.Heinrichmeyer@gmail.com
 .. raw:: html
 
  </div></div>
- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <br style="clear: left;" /><br />
