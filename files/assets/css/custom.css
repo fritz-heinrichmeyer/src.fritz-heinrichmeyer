@@ -11,12 +11,13 @@
 	  float: left;
 	  /* width: 45em; */
 	  width: 90%;
-	  margin: -30px  0px 0 0px;
+	  margin: -30px  0px 0 0em;
+	  margin-bottom: 1.7em;
 	  padding-left: 5em;
 	  }
-      .information:after { 
+      /*.information:after { 
 		clear: left;
-	}
+	}*/
 }
 
 /*a[href^="https"]{ target: new; target-name: new; target-new: tab; }*/
