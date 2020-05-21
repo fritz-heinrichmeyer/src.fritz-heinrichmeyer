@@ -20,7 +20,7 @@ Meine Tochter Luise studierte Psychologie (wie die Mutter,  Masterabschluss), me
  
 
 
-- Hier geht es zu den Webseiten meiner Frau: `Gudrun Heinrichmeyer <https://www.gudrun-heinrichmeyer.com>`_  und `NLP-IMPULSE <https://www.nlp-impulse.com/>`_
+- Hier geht es zu den Webseiten meiner Frau: https://www.gudrun-heinrichmeyer.com , https://www.nlp-impulse.com und  https://www.schafsinnig.de
 - Hier geht es zur Webseite meines Bruders: `Richard Heinrichmeyer <http://www.heinrichmeyer.de>`_ 
 
 
