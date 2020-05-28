@@ -10,11 +10,17 @@
 -->
 
 
-   
+
 
 Das Applet veranschaulicht die diskrete Faltung
 
-.. image:: df1.gif
+.. math::
+   
+ y(n) = \sum_{m= -\infty} ^{\infty}x(m)h(n - m)
+
+
+
+..   image df1.gif
 
 .. raw:: html
 

@@ -159,7 +159,49 @@ NAVIGATION_LINKS = {
  #       ("/rss.xml", "RSS-Feed"),
  #   ),
 }
+LATEX_FORMULA_RENDERER = "latex_formula_mathjax"
+LATEX_FORMULA_COLOR = (0., 0., 0.)
+LATEX_FORMULA_SCALE = 1.25
+LATEX_FORMULA_ENGINE = "latex"
 
+MESSAGES = {
+    'math_thm_name': 'Theorem',
+    'math_prop_name': 'Proposition',
+    'math_cor_name': 'Corollary',
+    'math_lemma_name': 'Lemma',
+    'math_def_name': 'Definition',
+    'math_defs_name': 'Definitions',
+    'math_proof_name': 'Proof',
+    'math_example_name': 'Example',
+    'math_examples_name': 'Examples',
+    'math_remark_name': 'Remark',
+    'math_remarks_name': 'Remarks',
+}
+MATHJAX_CONFIG = """
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\\(","\\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\\[","\\\]"] ],
+        processEscapes: true
+    },
+    displayAlign: 'center', // Change this to 'left' if you want left-aligned equations.
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}}
+    }
+});
+</script>
+"""
+
+KATEX_AUTO_RENDER = """
+delimiters: [
+    {left: "$$", right: "$$", display: true},
+    {left: "\\\[", right: "\\\]", display: true},
+    {left: "$", right: "$", display: false},
+    {left: "\\\(", right: "\\\)", display: false}
+]
+"""
+#
 # Name of the theme to use.
 THEME = "fritz-neu" # in wirklichkeit: yeti
 
@@ -203,6 +245,7 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.tex", "", "story.tmpl"),
     ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.txt", "pages", "story.tmpl"),
     ("pages/*.textile", "pages", "story.tmpl"),
@@ -280,7 +323,7 @@ TIMEZONE = "Europe/Berlin"
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
- #   "textile":('.textile',),
+    "latex":('.tex',),
     "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "txt2tags": ('.t2t',),
@@ -1161,7 +1204,11 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = '<link rel="icon" href="/favicon.ico" type="image/x-icon" />'
+EXTRA_HEAD_DATA = """
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)

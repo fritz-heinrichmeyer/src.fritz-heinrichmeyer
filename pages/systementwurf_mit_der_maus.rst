@@ -25,15 +25,23 @@ Mit Hilfe des Applets wird die Beziehung zwischen Pole-Nullstellen und Systemfun
 
 Die Systemfunktion lässt sich in dieser Form
 
-.. image:: smdm1.gif
-   :align: center
 
-.. raw:: html
+.. math::
+
+ H(s) = A  \dfrac{\displaystyle \prod_{m=1} ^{m=M}(s -s_{0_m})}{\displaystyle \prod_{n=1} ^{n=N}(s -s_{\infty_n})}
+
+.. image: smdm1.gif
+..   :align: center
+
+.. raw: html
 
 
- <p>darstellen.<img alt="" src="smdm2.gif">und<img alt="" src="smdm3.gif">können reell oder komplex sein.</p>
+darstellen.
 
-darstellen.Sie können reell oder komplex sein.
+:math:`s_{\infty_n}`
+und :math:`s_{0_n}`
+können reell oder komplex sein.
+
 
 Ein Wertpaar(x, y) im Applet bedeutet zwei Pole/Nullstellen und zwar: (x + j y *,* x - j y)
 
