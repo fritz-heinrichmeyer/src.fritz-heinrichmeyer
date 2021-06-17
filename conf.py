@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import time
 
-# !! This is the configuration of Nikola. !!  #
+
 # !!  You should edit it to your liking.  !! #
 
 
