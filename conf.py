@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import time
 
 
-# !!  You should edit it to your liking.  !!   #
+# !!  You should edit it to your liking.  !!     #
 
 
 # ! Some settings can be different in different languages.
